@@ -85,7 +85,7 @@ addButton.addEventListener("click", () => {
   const email = emailInput.value.trim();
 
   if (!name || !id || !className || !email) {
-    alert("Please fill in all fields!");
+    alert("Please fill in all fields!"); // if any field is empty then return
     return;
   }
 
