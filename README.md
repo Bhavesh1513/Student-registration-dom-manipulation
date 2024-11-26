@@ -22,7 +22,7 @@ To use this system locally, follow the steps below:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-registration-system.git
+   https://github.com/Bhavesh1513/Student-registration-dom-manipulation.git
    ```
 
 2. Open the `index.html` file in your browser:
@@ -47,11 +47,7 @@ To use this system locally, follow the steps below:
     ├── script.js          # JavaScript logic
     └── README.md          # This README file
 ```
+## Output:
+![image](https://github.com/user-attachments/assets/bd21f8dd-78aa-4334-b7d1-6540ca804b78)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Inspired by basic student registration systems for educational purposes.
